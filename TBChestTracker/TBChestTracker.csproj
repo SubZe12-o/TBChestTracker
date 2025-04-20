@@ -762,7 +762,7 @@
       <Version>1.0.1</Version>
     </PackageReference>
     <PackageReference Include="CefSharp.Wpf">
-      <Version>128.4.90</Version>
+      <Version>134.3.90</Version>
     </PackageReference>
     <PackageReference Include="CsvHelper">
       <Version>33.0.1</Version>
